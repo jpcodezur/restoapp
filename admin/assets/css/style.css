@@ -1,0 +1,31 @@
+#nueva-categoria{
+    float:right;
+}
+ul.pagination{
+    float:right;
+}
+#fomr-search-bar{
+    float: right;
+    padding-right: 0;
+    width: 100%;
+}
+#fomr-search-bar div.form-group{
+    float: right;
+}
+#search-form{
+    padding-left: 25px;
+}
+#fomr-search-bar i{
+    color: #bcbcbc;
+    line-height: 30px;
+    margin-right: -21px;
+    padding-top: 0;
+    text-align: center;
+}
+.acciones-tabla a{}
+.acciones-tabla {
+    width: 4%;
+}
+.checkboxes-tabla{
+    width: 1%;
+}
